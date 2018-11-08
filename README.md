@@ -1,24 +1,6 @@
-Omni-lite (upgrading Litecoin Core to 0.16.3 version)
+TradeLayer 
 ==========================================
-
-Work done:
-----------
-
-- OP_RETURN data embbeded (wallet transactions)
-- Simple send RPC working on regtest
-- Create isuance managed RPC working on regtest
-- Leveldb working 
-- Transactions working on testnet4
-
-ToDo list:
-----------
-
-- Check levelDB Upgrade
-- Check Fees
-- Port tradelayer code
-- Test every RPC call on testnet
-- Check Omni Consensus
-- Daemon and Print to Console function 
+...
 
 Litecoin Core integration/staging tree
 =====================================
