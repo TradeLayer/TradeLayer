@@ -79,6 +79,7 @@ Credits
 Thanks to everyone who contributed to this release, and especially the Litecoin Core developers and Omni Core developers for providing the foundation for TradeLayer Protocol.
 
 
+
 What is Omni Layer?
 ----------------
 The Omni Layer is a communications protocol that uses the Bitcoin block chain to enable features such as smart contracts, user currencies and decentralized peer-to-peer exchanges. A common analogy that is used to describe the relation of the Omni Layer to Bitcoin is that of HTTP to TCP/IP: HTTP, like the Omni Layer, is the application layer to the more fundamental transport and internet layer of TCP/IP, like Bitcoin.
@@ -96,4 +97,5 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
-to Litecoin periodically.
+
+
